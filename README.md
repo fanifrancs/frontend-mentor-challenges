@@ -1,5 +1,5 @@
 # frontend-mentor-challenges
-A collection of my solutions. Just click any and you will be directed to its repo.
+A collection of my solutions. Just click any and you will be redirected to its repo.
 
 - [e-commerce-product-page](https://github.com/fanifrancs/ecommerce-site)
 
