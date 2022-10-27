@@ -5,7 +5,7 @@ A collection of my solutions to the challenges I completed.
 A basic e-commerce-product page.
 
 ## [advice-generator](https://github.com/fanifrancs/advice-generator)
-Generate pieces of advice by clicking the dice icon.
+A simple app that generates pieces of advice by clicking a dice icon.
 
 ## [intro-section](https://github.com/fanifrancs/intro-section)
 Landing page with dropdown navigation.
